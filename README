@@ -1,2 +1,5 @@
 rails generate scaffold Portfolio name:string 
 bundle exec rake db:migrate
+
+
+rails generate controller landing index
